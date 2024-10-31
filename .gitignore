@@ -1,5 +1,6 @@
 **/.ipynb_checkpoints/
 **/.ipynb_checkpoints/**
 **/logs/**
-Traffic-RL/outputs/4x4grid/**
-Traffic-RL/ray_results/**
+traffic_rl/outputs/**
+traffic_rl/ray_results/**
+Traffic-RL/**
