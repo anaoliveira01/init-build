@@ -5,3 +5,4 @@ traffic_rl/outputs/**
 traffic_rl/ray_results/**
 Traffic-RL/**
 traffic_rl/traffic_ppo.ipynb
+randomTrips.py
