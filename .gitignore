@@ -6,3 +6,4 @@ traffic_rl/ray_results/**
 Traffic-RL/**
 traffic_rl/traffic_ppo.ipynb
 randomTrips.py
+traffic_rl/data/results/**/ray_results
