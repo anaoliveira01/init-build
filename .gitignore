@@ -7,3 +7,4 @@ Traffic-RL/**
 traffic_rl/traffic_ppo.ipynb
 randomTrips.py
 traffic_rl/data/results/**/ray_results
+traffic_rl/sumo_3d_demo/ray_results/**
