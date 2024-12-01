@@ -11,9 +11,9 @@
     </input>
 
     <traci_server>
-    <remote-port value="4001"/>
+        <remote-port value="4002"/>
     </traci_server>
     
-    <step-length value="0.016" />
+    <step-length value="0.01" />
 
 </configuration>
