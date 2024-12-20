@@ -31,7 +31,7 @@ Our team developed and integrated cutting-edge Reinforcement Learning (RL) metho
 - **Policy & Algorithm**: Implemented **PPO** for stable training, capable of handling multiple agents interacting simultaneously.
 
 **Key Results**:
-- Achieved up to a **90% reduction in average vehicular wait times** after 100,000 training steps, lowering delays to roughly one minute or under.
+- Achieved up to a **90% reduction in average vehicle wait times** after 100,000 training steps, lowering delays to roughly one minute or under.
 - Demonstrated the scalability and adaptability of RL policies to real-world intersections, improving traffic efficiency and safety.
 
 ### 2. Parallel Robotics & Sim2Real Locomotion
@@ -46,7 +46,7 @@ Our team developed and integrated cutting-edge Reinforcement Learning (RL) metho
 
 **Approach**:
 - **Simulation Environment**: Utilized **Google Brax**, a differentiable physics engine optimized for hardware acceleration, to train policies at scale.
-- **Robot Modeling**: Defined the robot’s morphology using **MJCF**, capturing physical constraints and dynamics accurately.
+- **Robot Modeling**: Defined the robot’s form using **MJCF**, capturing physical constraints and dynamics accurately.
 - **Locomotion Training**: Conducted 100 million simulation steps, teaching the robot walking, running, and other advanced gaits through RL, again using **PPO**.
 - **Sim2Real Transfer**: Successfully deployed the trained policies on a physical hexapod (controlled by a Raspberry Pi 4 Model B) with minimal adjustment, demonstrating high-fidelity transfer from simulation to the real world.
 
