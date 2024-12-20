@@ -64,19 +64,10 @@ Our team developed and integrated cutting-edge Reinforcement Learning (RL) metho
 
 ### References
 
-```bibtex
-@misc{sumorl,
-    author = {Lucas N. Alegre},
-    title = {{SUMO-RL}},
-    year = {2019},
-    publisher = {GitHub},
-    journal = {GitHub repository},
-    howpublished = {\url{https://github.com/LucasAlegre/sumo-rl}},
-}
-@software{brax2021github,
-  author = {C. Daniel Freeman and Erik Frey and Anton Raichuk and Sertan Girgin and Igor Mordatch and Olivier Bachem},
-  title = {Brax - A Differentiable Physics Engine for Large Scale Rigid Body Simulation},
-  url = {http://github.com/google/brax},
-  version = {0.12.1},
-  year = {2021},
-}
+- Alegre, Lucas N. (2019). **SUMO-RL**. GitHub Repository.  
+  Available at: [https://github.com/LucasAlegre/sumo-rl](https://github.com/LucasAlegre/sumo-rl)
+
+- Freeman, C. Daniel, Frey, Erik, Raichuk, Anton, Girgin, Sertan, Mordatch, Igor, & Bachem, Olivier. (2021).  
+  **Brax - A Differentiable Physics Engine for Large Scale Rigid Body Simulation** (Version 0.12.1).  
+  Available at: [http://github.com/google/brax](http://github.com/google/brax)
+  
