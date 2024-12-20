@@ -5,6 +5,10 @@
     <br>
 </p>
 
+![Init Build Presentation Cover (1)](https://github.com/user-attachments/assets/28a6b235-6bd6-4fc1-8c12-d3df3c5c6c1f)
+
+<br>
+
 ## About
 
 Our team developed and integrated cutting-edge Reinforcement Learning (RL) methodologies to address two primary challenges: optimizing traffic flow in urban environments and enabling sim2real locomotion in robotics. Utilizing frameworks such as **SUMO**, **SUMO-RL**, **Ray RLlib**, **Google Brax**, and **Proximal Policy Optimization (PPO)**, the projects aimed to deliver tangible improvements in real-world scenarios.
@@ -12,6 +16,11 @@ Our team developed and integrated cutting-edge Reinforcement Learning (RL) metho
 ## Projects
 
 ### 1. Multi-Agent Traffic Optimization
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c5a89faf-a3dd-480e-ae77-2a50265550df" alt="Kapture GIF" width="45%" />
+  <img src="https://github.com/user-attachments/assets/b0dda309-d5a5-4f1e-88f8-ea75c8787c60" alt="02 GIF" width="45%" />
+</div>
 
 **Objective**: Mitigate congestion and reduce wait times at a particularly busy and dangerous Miami intersection.
 
@@ -26,6 +35,12 @@ Our team developed and integrated cutting-edge Reinforcement Learning (RL) metho
 - Demonstrated the scalability and adaptability of RL policies to real-world intersections, improving traffic efficiency and safety.
 
 ### 2. Parallel Robotics & Sim2Real Locomotion
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/cd79866a-fd30-4d75-a864-c7f08fa02b0b" alt="GIF 1" height="300px" />
+    <img src="https://github.com/user-attachments/assets/45188ed5-c55f-46ee-b16e-d28b32d7b4ef" alt="GIF 2" height="300px" />
+    <img src="https://github.com/user-attachments/assets/693b676f-4eee-4431-adf2-c1a1a43a648f" alt="GIF 3" height="300px" />
+</div>
 
 **Objective**: Enable robust sim2real transfer of learned locomotion policies for a custom-built hexapod robot.
 
