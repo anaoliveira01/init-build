@@ -1,7 +1,7 @@
 <h1 align="center">● INIT Build AI/ML Fall 2024</h1>
 
 <p align="center">
-    <a>Multi-Agent Reinforcement Learning for Traffic Optimization</a> | <a>Robotics & Sim2Real Locomotion</a>
+    <a>Traffic Optimization via Multi-Agent Reinforcement Learning</a> | <a>Sim2Real Robotics Locomotion</a>
     <br>
 </p>
 
