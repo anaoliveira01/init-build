@@ -34,7 +34,7 @@ Our team developed and integrated cutting-edge Reinforcement Learning (RL) metho
 - Achieved up to a **90% reduction in average vehicle wait times** after 100,000 training steps, lowering delays to roughly one minute or under.
 - Demonstrated the scalability and adaptability of RL policies to real-world intersections, improving traffic efficiency and safety.
 
-### 2. Parallel Robotics & Sim2Real Locomotion
+### 2. Robotics & Sim2Real Locomotion
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/cd79866a-fd30-4d75-a864-c7f08fa02b0b" alt="GIF 1" height="300px" />
