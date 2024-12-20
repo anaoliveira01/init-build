@@ -36,10 +36,10 @@ Our team developed and integrated cutting-edge Reinforcement Learning (RL) metho
 
 ### 2. Parallel Robotics & Sim2Real Locomotion
 
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/cd79866a-fd30-4d75-a864-c7f08fa02b0b" alt="GIF 1" height="300px" />
-    <img src="https://github.com/user-attachments/assets/45188ed5-c55f-46ee-b16e-d28b32d7b4ef" alt="GIF 2" height="300px" />
-    <img src="https://github.com/user-attachments/assets/693b676f-4eee-4431-adf2-c1a1a43a648f" alt="GIF 3" height="300px" />
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github.com/user-attachments/assets/cd79866a-fd30-4d75-a864-c7f08fa02b0b" alt="GIF 1" height="250px" />
+    <img src="https://github.com/user-attachments/assets/45188ed5-c55f-46ee-b16e-d28b32d7b4ef" alt="GIF 2" height="250px" />
+    <img src="https://github.com/user-attachments/assets/693b676f-4eee-4431-adf2-c1a1a43a648f" alt="GIF 3" height="250px" />
 </div>
 
 **Objective**: Enable robust sim2real transfer of learned locomotion policies for a custom-built hexapod robot.
